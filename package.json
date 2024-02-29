@@ -1,0 +1,25 @@
+{
+  "name": "@hexlet/code",
+  "type": "module",
+"bin": {
+  "code": "bin/menu-games.js",
+  "brain-games": "bin/menu-game.js",
+  "brain-progression": "bin/brain-progression.js",
+  "brain-scm": "bin/brain-scm.js"
+},
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "eslint-plugin-react": "^7.33.2"
+  }
+}
