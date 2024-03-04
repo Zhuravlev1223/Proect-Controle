@@ -5,4 +5,4 @@ import { userName } from "../src/cli.js"
 
 userName()
 
-console.log(`choose the game!\ngeometrical progression\nSCM`);
+console.log(`Choose the game!\ngeometrical progression\nSCM`);
