@@ -16,7 +16,7 @@ lint-fix:
 brain-games:
 	node bin/brain-games.js
 
-gaimod progression:
+brain-progression:
 	node bin/brain-progression.js
 
 SCM:
